@@ -23,9 +23,9 @@
 
 ### Our Team Members :heart:
 
+- **[Huxly Gerard Singh](https://github.com/huxly123)**
 - **[Srikanta Banerjee](https://github.com/srikanta30)**
 - **[Nagendra Patil](https://github.com/NagendraPatil)**
-- **[Huxly Gerard Singh](https://github.com/huxly123)**
 - **[Yashraj Maheshwari](https://github.com/yashraj-m)**
 -  **[Premkumar Chanda](https://github.com/chandaprem999)**
 
@@ -63,3 +63,12 @@ First you have to have to go to the signup page and create a new account. Then y
 - `MongoDB`
 - `Mongoose`
 - `Express`
+
+---
+
+### Screenshots:
+
+![image](https://user-images.githubusercontent.com/28688901/140640914-c6ca5404-9772-4462-8c12-d7ea0f097b26.png)
+![image](https://user-images.githubusercontent.com/28688901/140640940-f7dc2649-fe27-4a15-a8d1-ef77f496e0ad.png)
+![image](https://user-images.githubusercontent.com/28688901/140640996-0284ed86-8b65-4956-bad9-e5bc626dfc05.png)
+![image](https://user-images.githubusercontent.com/28688901/140640972-6efeae34-e17e-491f-9998-1e174b5a2258.png)
