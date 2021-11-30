@@ -4,10 +4,11 @@
 ---
 # Welcome :wave:
 ---
-
-#Link to our Project website:
+---
+# Link to our Project website:
 
 https://shoppers-stop-com.herokuapp.com/
+---
 
 ### About this project: :raised_hands:
 
