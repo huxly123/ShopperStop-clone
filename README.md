@@ -17,12 +17,12 @@ https://shoppers-stop-com.herokuapp.com/
 ---
 
 #### Presentation Video: 
-- **[Checkout The Demo Video On LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6850473762471731200/)**
+- **[Checkout The Demo Video On Youtube](https://www.linkedin.com/feed/update/urn:li:activity:6850473762471731200/)**
 
 ---
 
 #### Project Demo: 
-- **[Checkout The Live Project Demo](https://shoppers-stop-com.herokuapp.com/)**
+- **[Checkout The Live Project Demo](https://www.youtube.com/watch?v=FVEmW9rnbyA&t=15s)**
 
 
 
